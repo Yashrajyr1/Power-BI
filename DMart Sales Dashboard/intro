@@ -1,0 +1,21 @@
+🛒 DMart Sales Dashboard *
+
+📌 Project Overview :
+The DMart Sales Dashboard is an interactive and insightful Power BI report that analyzes sales performance across products, regions, and time periods. 
+This project helps stakeholders understand key business trends, identify high-performing categories, and make data-driven decisions to optimize revenue and profit.
+
+🔍 Key Insights Delivered :
+  -Monthly and yearly sales trends to track growth 📈
+  -Product category and sub-category performance breakdown 🧺
+  -Region-wise revenue analysis to spot top markets 🌍
+  -Profit margin and discount pattern insights 💰
+  -Dynamic filters and slicers for user-driven analysis 🎛️
+
+🧰 Tools & Techniques :
+  -Power BI for data visualization
+  -Power Query for data cleaning and transformation
+  -DAX for calculated fields and KPIs
+  -Interactive charts: Bar, Line, TreeMap, Pie, Card Visuals, Slicers
+
+📟 Dasboard can be viwed in both PC and Mobile layout.
+   # Dynamic View and Layout
