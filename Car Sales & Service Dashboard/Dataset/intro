@@ -1,0 +1,39 @@
+📂 Dataset Folder – Car Sales and Service Dashboard
+  The Dataset folder contains all the raw and original CSV files used in building the Car Sales and Service Dashboard.
+  These datasets simulate real-world data from a car dealership, including sales, service records, customer details, and insurance information.
+  Each CSV file is structured for clarity and easy integration into Power BI.
+
+📁 Files Included:
+  🚗 Car_Data.csv
+    -Contains details about all available car models, including:
+    -Brand, Model, Variant
+    -Engine type, Fuel type, Transmission
+    -Manufacturing year, Price
+
+  📈 Sales_Data.csv
+    -Tracks car sales information:
+    -Sale date, Invoice ID
+    -Car model sold, Dealership location
+    -Salesperson ID, Sale amount
+
+  🧾 Owner_Details.csv
+    -Contains customer information post-purchase:
+    -Customer ID, Name, Gender
+    -Contact info, Address, Car owned
+
+  🛠️ Service_History.csv
+    -Records of after-sales services:
+    -Service ID, Car ID, Issue description
+    -Service type, Date in/out, Cost
+    -Technician assigned, Resolution status (if any)
+
+  🛡️ Insurance_Data.csv
+    -Details about insurance status and claims:
+    -Policy number, Insurance provider
+    -Coverage type, Validity period
+    -Claim history, Premium amount
+
+📌 Notes:
+  *All files are in .csv format and ready for import into Power BI.
+  *No data preprocessing has been applied – these are raw datasets for transparency and reproducibility.
+  *A sample subset can be provided if file size exceeds GitHub's 25MB limit.
