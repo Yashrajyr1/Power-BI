@@ -1,0 +1,24 @@
+💼 Financial Analysis Dashboard :
+
+📌 Project Overview
+  The Financial Analysis Dashboard is a comprehensive Power BI report built using :-
+  *Power BI's sample financial dataset. 
+  This project demonstrates core financial KPIs and visual storytelling through dynamic dashboards tailored for CFOs, analysts, and decision-makers.
+  It focuses on helping stakeholders track performance, monitor spending, and identify trends in revenue, expenses, and profitability.
+
+🔍 Key Insights Delivered
+  📊 Revenue and expense trends across months and regions
+  💸 Gross profit and operating income breakdown
+  🧮 Budget vs Actual variance analysis to monitor fiscal goals
+  🧭 Region and product-wise financial performance
+  🎛️ Interactive filters for region, year, and scenario (Actual/Budget)
+
+🧰 Tools & Features
+  -Power BI Sample Financials dataset
+  -Data modeling and relationships between financial entities
+  -Power Query for transformation
+  -DAX for KPI calculations like Gross Profit %, Variance %, etc.
+
+📟Visualizations: 
+Line charts, Bar graphs, KPI cards, Matrix, and Slicers
+
