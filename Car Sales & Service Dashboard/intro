@@ -1,0 +1,42 @@
+🚗🛠️ Car Sales and Service Dashboard :
+
+📌 Project Overview -
+  The Car Sales and Service Dashboard is a dynamic Power BI report that provides deep insights into car dealership performance — 
+  **combining sales data, service history, and customer satisfaction metrics to support better business decisions. 
+  It’s designed for dealership managers, marketing teams, and after-sales service heads to monitor trends and improve operational efficiency.
+
+🔍 Key Insights Delivered -
+  🚘 Car sales trends by model, brand, and region
+  📍 Dealership-wise performance analysis
+  🛠️ Service frequency, most common issues, and resolution time tracking
+  💬 Customer satisfaction monitoring with feedback ratings
+  📅 Time-series analysis of both sales and service volumes
+  🎯 Interactive filters for dealership, car model, date range, and service category
+
+🧰 Tools & Features - 
+  ✅ Power BI for dashboard development
+  🔄 Power Query for cleaning and transforming raw sales & service data
+  🧠 DAX for creating custom KPIs like:
+      -Average Service Cost
+      -Repeat Service Customers
+      -Sales-to-Service Conversion Rate
+
+📊 Visual Elements:
+  -Bar and Line Charts
+  -Pie and Donut Charts
+  -KPI Cards & Tables
+  -Slicers and Drill-through filters
+
+📂 Dataset :
+📎 Sample dataset simulating car sales and service logs including:
+  Car brand, model, and variant
+  Date of sale and customer location
+  Service type, issue description, resolution time
+  Customer satisfaction score
+
+🎯 Purpose :
+  This dashboard helps business users:
+  Analyze sales performance across dealerships
+  Improve after-sales service experience
+  Identify customer trends and high-maintenance vehicles
+  Optimize staffing and parts inventory based on service load
