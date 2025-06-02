@@ -43,7 +43,7 @@ Here you'll find a collection of interactive and insightful dashboards built wit
 ## 📬 Contact & Connect
 # 👤 Author
 **Yashraj Singh**
-Feel free to reach out or connect with me on:
+*Feel free to reach out or connect with me on:*
 - 📧 [yashrajsingh2288@gmail.com]
 - 🔗 [https://www.linkedin.com/in/yashrajsingh-]
 - 💻 [(https://github.com/Yashrajyr1)]
